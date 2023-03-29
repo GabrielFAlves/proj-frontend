@@ -4,6 +4,7 @@
 # Quem ira utilizar?
 
 1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
+
 2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
 
 # Onde
