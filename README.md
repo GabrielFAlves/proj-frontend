@@ -8,7 +8,10 @@
 
 2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
 
-# Onde
+# Onde?
+
 * O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
 
-# Por que
+# Por que?
+
+* Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
