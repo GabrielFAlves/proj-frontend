@@ -18,15 +18,15 @@
 
 # Requisitos:
 ```
-* O software deve controlar a quantidade de chamados abertos, concluidos ou em andamento.
+1- O software deve controlar a quantidade de chamados abertos, concluidos ou em andamento.
 
-* Não tera integração com nenhum outro sistema da empresa.
+2- Não tera integração com nenhum outro sistema da empresa.
 
-* O sistema guardará os sistemas em logs.
+3- O sistema guardará os sistemas em logs.
 
-* O sistema deve ter uma listagem com clientes cadastrados.
+4- O sistema deve ter uma listagem com clientes cadastrados.
 
-* O sistema não podera ser desligado, tem que funcionar 24h por dia.
+5- O sistema não podera ser desligado, tem que funcionar 24h por dia.
 
-* rror 500 se não tiver conexão com o servidor
+6- Error 500 se não tiver conexão com o servidor
 ```
